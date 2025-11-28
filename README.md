@@ -9,34 +9,44 @@ Limited to 40 miners. For testing only.
 
 ## 🚀 Downloads
 
-Latest builds are available under the **Releases** page.
+Here are the direct download links (recommended):
 
-We provide two versions:
-
-### • Windows EXE (recommended)
+### **Windows EXE**
 No Python required. Unzip and double-click the miner.
 
-### • Python Dev Package
+https://github.com/chonkerlabs/chonker-miner/releases/download/v0.1.0-prealpha/chonker-miner-win-v0.1.zip
+
+### **Python Dev Package**
 For Linux, macOS, and advanced users. Includes `start-miner.sh` and `start-miner.bat`.
+
+https://github.com/chonkerlabs/chonker-miner/releases/download/v0.1.0-prealpha/chonker-miner-py-v0.1.zip
+
+---
+
+## 📘 Notes
+
+• Wallets used in this testnet **are not real crypto wallets** — just unique names for the leaderboard.  
+• If Windows SmartScreen shows a warning, click **More info → Run anyway** (normal for unsigned test builds).  
+• Light GPU/CPU usage during this phase.
 
 ---
 
 ## 🧪 Testnet
 
-View wallet stats:  
+Live wallet stats:  
 https://panel.chonker.ai
 
-API endpoint:  
+Testnet API endpoint:  
 https://api.chonker.ai
 
-If you see **“Testnet full”**, slots are currently in use.  
+If you see **“Testnet full”**, it means all slots are currently in use.  
 Try again later.
 
 ---
 
 ## 💬 Support & Community
 
-Discord: https://discord.gg/jJMSFMWk6m
+Discord: https://discord.gg/jJMSFMWk6m  
 Twitter: https://twitter.com/ChonkerLabs
 
 ---
